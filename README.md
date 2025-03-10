@@ -1,7 +1,7 @@
 ✈️ Travel Tracker 🌍
 "Explore the world, one country at a time!"
 
-🗺️ Overview
+📖 Overview
 Travel Tracker is a multi-user travel logging application that allows users to track the countries they have visited on an interactive world map. It provides a simple way to add new destinations, switch between users, and visualize travel history dynamically.
 
 🎯 Features
@@ -12,10 +12,9 @@ Travel Tracker is a multi-user travel logging application that allows users to t
 ✅ Persistent Data: Uses PostgreSQL to store user and travel data.
 
 🛠️ Tech Stack
- ->Frontend: EJS, HTML, CSS, JavaScript
- ->Backend: Node.js, Express.js
- ->Database: PostgreSQL
-
+Frontend: EJS, HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Database: PostgreSQL
 🚀 Future Enhancements
 🔹 User Authentication: Secure login system for users.
 🔹 Route Mapping: Visualize travel routes between destinations.
@@ -25,11 +24,11 @@ Travel Tracker is a multi-user travel logging application that allows users to t
 🤝 Contribute
 Got ideas? Feel free to open an issue or submit a pull request!
 
+
 🔸description
   -> use your database and your password
- -> Install all the dependencies
- -> Use postgres
--> Run in the  localhost:3000 in your sysyem
-
+  -> Install all the dependencies
+  -> Use postgres
+  -> Run in the  localhost:3000 in your sysyem
 
 🚀 Start tracking your travels and make every journey unforgettable! 🌎✨
